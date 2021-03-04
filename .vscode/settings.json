@@ -29,8 +29,7 @@
   "window.autoDetectColorScheme": true,
   "workbench.fontAliasing": "antialiased",
   "explorer.openEditors.visible": 0,
-  "editor.fontFamily": "Fira Code",
   "workbench.editor.showTabs": false,
   "editor.codeLens": false,
-  "workbench.activityBar.visible": false
+  "workbench.activityBar.visible": true
 }
