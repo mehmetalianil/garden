@@ -6,7 +6,7 @@ Welcome to your new foam workspace, let's get you started.
 
 Let's go through this to set up your repo:
 
-- [ ] if you are new with VsCode, see how to [[get-started-with-vscode]] and how to [[use-keyboard-shortcuts-for-editing]]
+- [x] if you are new with VsCode, see how to [[get-started-with-vscode]] and how to [[use-keyboard-shortcuts-for-editing]]
 
 - [ ] you can navigate the links between your notes by `cmd+click` (or `ctrl+click` on Windows) on a wiki link. You can go back with `ctrl+-`. Here, go to your [[inbox]]
 
