@@ -2,7 +2,8 @@
   "editor.minimap.enabled": false,
   "editor.wrappingIndent": "indent",
   "editor.overviewRulerBorder": false,
-  "editor.lineHeight": 24,
+  "editor.lineHeight": 30,
+  "editor.fontSize": 16,
   "[markdown]": {
     "editor.quickSuggestions": true
   },
@@ -26,4 +27,10 @@
   "vscodeMarkdownNotes.noteCompletionConvention": "noExtension",
   "vscodeMarkdownNotes.slugifyMethod": "github-slugger",
   "window.autoDetectColorScheme": true,
+  "workbench.fontAliasing": "antialiased",
+  "explorer.openEditors.visible": 0,
+  "editor.fontFamily": "Fira Code",
+  "workbench.editor.showTabs": false,
+  "editor.codeLens": false,
+  "workbench.activityBar.visible": false
 }
