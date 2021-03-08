@@ -2,8 +2,6 @@
   "editor.minimap.enabled": false,
   "editor.wrappingIndent": "indent",
   "editor.overviewRulerBorder": false,
-  "editor.lineHeight": 30,
-  "editor.fontSize": 16,
   "[markdown]": {
     "editor.quickSuggestions": true
   },
@@ -27,9 +25,20 @@
   "vscodeMarkdownNotes.noteCompletionConvention": "noExtension",
   "vscodeMarkdownNotes.slugifyMethod": "github-slugger",
   "window.autoDetectColorScheme": true,
-  "workbench.fontAliasing": "antialiased",
   "explorer.openEditors.visible": 0,
-  "workbench.editor.showTabs": false,
+  "workbench.editor.showTabs": true,
   "editor.codeLens": false,
-  "workbench.activityBar.visible": true
+  "workbench.activityBar.visible": true,
+  "workbench.startupEditor": "none",
+  "editor.renderControlCharacters": false,
+  "editor.renderIndentGuides": false,
+  "editor.renderLineHighlight": "none",
+  "editor.lineNumbers": "off",
+  "editor.fontSize": 18,
+  "editor.lineHeight": 26,
+  "editor.letterSpacing": 0,
+  "editor.fontFamily": "Fira Code",
+  "editor.suggestFontSize": 16
+  "editor.suggestLineHeight": 24,
+  "editor.fontLigatures": true,
 }
