@@ -8,6 +8,8 @@ Mainly initiated by the movement incepted by Roam Research, I tried other free a
 
 > Warning: This is an experiment of humility. Be inconsiderate at your own risk.
 
+By this, I mean that I am willing to do this in public even that means to make a total fool out of myself. My opinion is that reservance and self consciousness may limit one's ability to function to their fullest. I am trying to break that.
+
 So, here I have some Categories:
 
 - [[hardware]] 
