@@ -2,7 +2,7 @@
 
 ## [Memory transferred between snails, challenging standard theory of how the brain remembers](https://www.statnews.com/2018/05/14/memory-transfer-between-snails-challenges-standard-theory/)
  
- There is a lot of controversy here. Including an old study about worms and how ingestion can transfer a kind of a memory.
+ There is a lot of controversy here. Including a,,,,,,,,,,,,,,,,,,,n old study about worms and how ingestion can transfer a kind of a memory.
 
 ## [Why Does the Pandemic Seem to Be Hitting Some Countries Harder Than Others?](https://www.newyorker.com/magazine/2021/03/01/why-does-the-pandemic-seem-to-be-hitting-some-countries-harder-than-others)
 
