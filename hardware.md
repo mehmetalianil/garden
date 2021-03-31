@@ -19,8 +19,10 @@ If the uncertainty comes from nature and it is really pricy to eliminate it by t
 ## EMI EMC
 - [[notes-on-shielding]]
 - 
-  
 
+## Lists
+- [[communication]]
+- [[power-sources]]
 
 ## Technologies
 - [[interesting-components]]
