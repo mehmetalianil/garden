@@ -24,7 +24,9 @@ I wonder whether a through in intensity makes sense in a place where most people
 
 So it is also the humble thing to do. 
 
-## [Scenius, or Communal Genius](https://kk.org/thetechnium/scenius-or-comm/)
+## Scenius, or Communal Genius
+
+[Scenius, or Communal Genius](https://kk.org/thetechnium/scenius-or-comm/)
 
 Linked by Paul Graham
 
