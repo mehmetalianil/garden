@@ -62,3 +62,34 @@ fn start() -> ! {
     }
 }
 ```
+
+## Knurling session 2020 Q4
+
+Knurling is a project by Ferrous systems aimed towards a better embedded rust experience. I tried to follow it to investigate a possible use of nRF52480 in embedded system projects.
+
+## Overview of Embedded Rust
+
+Embedded development has a lot of item in its development pipeline that we just had been taking for granted. We have the IDE, the debugging, drivers for the debuggers, the extensions of the IDE that talk with the debuggers, and sometimes extra glue logic for some of them to be compatible. This ecosystem was given by the vendor, and in many cases in C or in elementary C++. 
+
+On the other hand, the Rust ecosystem is mainly supported by individual open-source maintainers. I will try to list here the tools that I tried out on my nRF52480 development efforts. 
+
+### Debugging chain
+
+There are three ways to debug an embedded microcontroller:
+
+* [Cargo embed](https://github.com/probe-rs/cargo-embed) 
+  * with [probe-rs](https://github.com/probe-rs/probe-rs) communicating with the debugger 
+  * with winusb generic driver installed on the debugger with [Zadig](https://zadig.akeo.ie/)
+  * using either RTT or GDB to communicate, not both. 
+  * Has [probe-rs vscode extension](https://github.com/probe-rs/vscode), but seems to be not stable yet. 
+* [probe-run](https://github.com/knurling-rs/probe-run) 
+  * with [probe-rs](https://github.com/probe-rs/probe-rs) communicating with the debugger 
+  * with winusb generic driver installed with [Zadig](https://zadig.akeo.ie/)
+  * Using [defmt](https://github.com/knurling-rs/defmt) as a logging framework
+* arm gdb server + open ocd
+  * with [Open OCD](http://openocd.org/) communicating with the debugger
+  * with mainstream drivers.
+  * with [cortex-debug](https://github.com/Marus/cortex-debug) interfacing with the VSCode.
+  * with [cortex-semihosting](https://github.com/rust-embedded/cortex-m) as logging framework. (albeit slow)
+
+
