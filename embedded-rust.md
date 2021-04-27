@@ -93,3 +93,14 @@ There are three ways to debug an embedded microcontroller:
   * with [cortex-semihosting](https://github.com/rust-embedded/cortex-m) as logging framework. (albeit slow)
 
 
+### Crates meant to go to nRF52480
+
+These are meant to be the part of the code.
+
+* [nrf-52840-hal](https://github.com/nrf-rs/nrf-hal)
+  * This is the hardware abstraction layer for the nrf-52 series microcontrollers
+* [nrf-softdevice](https://github.com/embassy-rs/nrf-softdevice) 
+  * Wrapper for nrf softdevices that include the network stack, enabling high level applications use them.
+* [embassy](https://github.com/embassy-rs/embassy) library for async/await functions in embedded Rust. 
+* [embassy-nrf](https://github.com/embassy-rs/embassy)
+* [RTIC](https://github.com/rtic-rs/cortex-m-rtic)
