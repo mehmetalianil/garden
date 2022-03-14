@@ -22,11 +22,22 @@ This is a late addition. I believe that a healthy workplace is an extremely hard
 
 ## Remote, async first work
 
-This is right now disputable. The epidemic has made t a lucrative thing, but it requires deep contemplation.
+This is right now disputable. The epidemic has made it a lucrative thing, but it requires deep contemplation.
+The issue is, how does culture form in such a medium? 
+And can we accomplish the high bandwith discourse that might require in person presence? 
+
 
 ## Extremely picky in recruitment.
 
 Scenius, or Communal Genius in [[articles]] shows that one of the most rewarding things that a commune can do is to have a space that keeps mediocrity out. 
+
+From [here](https://sockpuppet.org/blog/2015/03/06/the-hiring-post/#worksample):
+
+> Instead of asking questions about the kind of work you do, have candidates actually do the work.
+> ...
+
+The blog post actually focuses on how to make a *standardized* challenge and incrementally get better at the process.
+
 
 
 
