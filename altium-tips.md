@@ -1,2 +1,0 @@
-# altium-tips
-

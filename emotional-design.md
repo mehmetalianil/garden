@@ -1,2 +1,0 @@
-# emotional-design
-

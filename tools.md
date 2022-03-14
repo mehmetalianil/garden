@@ -13,7 +13,7 @@ I take these notes on it.
 - My Sofle Split keyboard
 - Kensington Trackball
 - 3D Connexion Mouse
-- My 1980 Trek 420 
+- My 1980 Trek 420 (now stolen, sadly.)
 - Braun AW22 (looking for a replacement glass for this (: )
 - 
 
